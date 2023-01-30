@@ -6,8 +6,8 @@ items:
   - link: "/feature/"
   - link: "/blog/"
     text: "Blog"
-# btn:
-#   link: "/contact/"
-#   text: "Get Started"
+btn:
+  link: "/contact/"
+  text: "Get Started"
 ---
 
